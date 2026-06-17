@@ -153,12 +153,11 @@ adult-income-recommendation-system/
 │
 ├── README.md
 │
-├── data/
-│   └── raw/
-│       └── adult.csv
+├── raw/
+│    └── adult-census-income.csv
 │
 └── src/
-    └── 13-recommendation-systems-adult-census-income.ipynb
+     └── 13-recommendation-systems-adult-census-income.ipynb
 ```
 
 ---
